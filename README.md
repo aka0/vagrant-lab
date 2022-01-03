@@ -1,5 +1,5 @@
 ## Description
-Vagrantfile for my lab machines in VirtualBox
+Setup virtualized lab machine using vagrant under VirtualBox.
 
 ## Machine Listing
 
