@@ -11,6 +11,7 @@ LAB-REMNux
 - See [REMNux documentation](https://docs.remnux.org/)
 
 ### FlareVM
+LAB-FlareVM
 - Windows 10
 - See [FlareVM documentation](https://github.com/mandiant/flare-vm)
 
